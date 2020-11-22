@@ -1,2 +1,2 @@
-<h3> DevOps Pipeline Project - Git->Jenkins->Maven->Docker-Ansible-Kubernetes </h3>
-<h2>Hi, Welcome to Hello World!! Ranjit Prajapati</h2>
+<h2> DevOps Pipeline Project - Git->Jenkins->Maven->Docker-Ansible-Kubernetes </h2>
+<h3>Hi, Welcome to Hello World!! Ranjit Prajapati</h3>
