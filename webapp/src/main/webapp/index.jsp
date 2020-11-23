@@ -3,7 +3,7 @@
    
    <body>
       Hello Ranjit! Welcome to simple CICD DevOps Pipeline Project<br/>
-      <h2>Git->Jenkins->Maven->Docker->Ansible->Kubernetes</h2>
+      <b>Git-Jenkins-Maven-Docker-Ansible-Kubernetes</b>
     </body>
 </html>
 
